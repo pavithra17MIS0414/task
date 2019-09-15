@@ -3,5 +3,8 @@ welcome to kitchen
 pasta
 kheer
 chicken fry
+ 
+beans
+pizza
 
 thank you
